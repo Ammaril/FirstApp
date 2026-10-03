@@ -11,6 +11,14 @@
         android:layout_height="wrap_content"
         android:hint="Поле 1" />
 
+    <Button
+        android:id="@+id/buttonOK"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="OK"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="16dp" />
+
 
 
 </LinearLayout>
